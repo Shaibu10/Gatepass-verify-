@@ -1,0 +1,6 @@
+{
+  "name": "GatePass Verify",
+  "description": "Offline QR vehicle sticker verification, driver registration, expiration tracking, and bulk CSV import app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
